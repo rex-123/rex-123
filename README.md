@@ -18,3 +18,5 @@ Shipping one content page per day across both sites and measuring what Google ac
 ## Find me
 
 [LinkedIn](https://www.linkedin.com/in/tamethebot/) · [tamethebot.com](https://www.tamethebot.com) · rakesh@tamethebot.com
+
+Previous GitHub account: [rkm-1234](https://github.com/rkm-1234). Everything current lives here.
