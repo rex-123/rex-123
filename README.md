@@ -9,7 +9,7 @@ Software developer in Kolkata. I build mobile apps at a startup by day and run t
 
 ## Stack
 
-Next.js App Router · TypeScript · Tailwind v4 · MDX · Vercel · Mobile App Development( React Native, Flutter )
+Next.js App Router · TypeScript · Tailwind v4 · MDX · Vercel · Web & Mobile App Development
 
 ## Currently
 
